@@ -51,3 +51,13 @@ de express para usarla en nuestra app.
 - res.send("hola mundo"):enviamos la respuesta
 - app.listen(PORT,()=>{: escucha el puerto y avisame en console.log
 - console.log(`Listening port ${PORT}`): el mensaje de todo esta OK
+
+### Día 2 del proyecto
+
+```
+ abrimos la terminal ennla carpeta del proyecto y hacemos el comando mkdir controllers routes models
+ ```
+
+ ```
+ mkdir controllers routes models
+ ```
